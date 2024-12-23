@@ -27,4 +27,10 @@ The next call to ```clickCell``` will result in a “1” in the chosen cell ins
 
 **Note**: You can turn off the Debug Panel by passing ```debug: false``` in the Client config.
 
+With the Board added:
+
+![BoardGame-TicTacToe-002](https://github.com/user-attachments/assets/56794cc2-aec5-41f4-a730-915442fea535)
+
+**Note**: You can press 1 (or click on the button next to “reset”) to reset the state of the game and start over.
+
 MORE ...
