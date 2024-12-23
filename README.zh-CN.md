@@ -1,4 +1,4 @@
-存储库名称
+repository-name
 
 # 存储库名称
 
@@ -7,7 +7,7 @@
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [图片](./IMAGES.md)
--   [柔和的](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
 
@@ -29,4 +29,4 @@
 
 ## 400 - 结论
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
