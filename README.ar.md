@@ -5,7 +5,7 @@
 > سلوجلاين
 
 -   [التوثيق](./DOCUMENTATION.md)
--   [مسرد](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [الصور](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
