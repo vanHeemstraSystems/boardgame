@@ -1,11 +1,11 @@
 存储库名称
 
-# 存储库名称
+# Repository Name
 
 > 斯拉格莱恩
 
 -   [文档](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [词汇表](./GLOSSARY.md)
 -   [图片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [参考](./REFERENCES.md)
