@@ -2,7 +2,7 @@
 
 # 儲存庫名稱
 
-> 斯拉格萊恩
+> Slugline
 
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)

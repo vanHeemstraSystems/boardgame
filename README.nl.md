@@ -9,7 +9,7 @@ repositorynaam
 -   [Afbeeldingen](./IMAGES.md)
 -   [Ingetogen](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Telemetrie](./TELEMETRY.md)
 
 **Samenvatting**
 

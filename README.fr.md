@@ -8,7 +8,7 @@ nom du référentiel
 -   [Glossaire](./GLOSSARY.md)
 -   [Images](./IMAGES.md)
 -   [Tamisé](./PODMAN.md)
--   [Références](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
 **Résumé exécutif**
