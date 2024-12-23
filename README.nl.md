@@ -9,13 +9,13 @@ repositorynaam
 -   [Afbeeldingen](./IMAGES.md)
 -   [Ingetogen](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
--   [Telemetrie](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **Samenvatting**
 
 Tekst
 
-## 100 - Introduction
+## 100 - Inleiding
 
 Zien[README.md](./100/README.md)
 
@@ -27,6 +27,6 @@ Zien[README.md](./200/README.md)
 
 Zien[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - Conclusie
 
 Zien[README.md](./400/README.md)

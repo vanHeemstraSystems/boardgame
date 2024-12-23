@@ -5,7 +5,7 @@
 > स्लगलाइन
 
 -   [प्रलेखन](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [शब्दकोष](./GLOSSARY.md)
 -   [इमेजिस](./IMAGES.md)
 -   [मातहत](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
@@ -25,7 +25,7 @@
 
 ## 300 - हमारे एप्लिकेशन का निर्माण
 
-See [README.md](./300/README.md)
+देखना[README.md](./300/README.md)
 
 ## 400 - निष्कर्ष
 
