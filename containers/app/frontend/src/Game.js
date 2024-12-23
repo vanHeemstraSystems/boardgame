@@ -45,7 +45,7 @@ export const TicTacToe = {
 
   endIf:({ G, ctx }) => {
     if (IsVictory(G.cells)){
-        return { winner: ctxcurrentPlayer }
+        return { winner: ctx.currentPlayer }
     }
     if (IsDraw(G.cells)) {
         return { draw: true }
