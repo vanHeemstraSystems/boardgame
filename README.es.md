@@ -1,8 +1,8 @@
-nombre-repositorio
+juego de mesa
 
-# Nombre del repositorio
+# BoardGame
 
-> línea de bala
+> Un juego de mesa multijugador basado en web
 
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
@@ -13,7 +13,7 @@ nombre-repositorio
 
 **Resumen ejecutivo**
 
-Texto
+Un juego de mesa basado en BoardGame.io
 
 ## 100 - Introducción
 
