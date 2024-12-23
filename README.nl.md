@@ -1,8 +1,8 @@
-repositorynaam
+bordspel
 
-# Naam van opslagplaats
+# Bordspel
 
-> Slaklijn
+> Een webgebaseerd bordspel voor meerdere spelers
 
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
@@ -13,7 +13,7 @@ repositorynaam
 
 **Samenvatting**
 
-Text
+Een bordspel gebaseerd op BoardGame.io
 
 ## 100 - Inleiding
 
@@ -21,7 +21,7 @@ Zien[README.md](./100/README.md)
 
 ## 200 - Vereisten
 
-See [README.md](./200/README.md)
+Zien[README.md](./200/README.md)
 
 ## 300 - Onze applicatie bouwen
 
