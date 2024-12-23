@@ -17,7 +17,9 @@ Although we haven’t built any UI yet, boardgame.io renders a Debug Panel. This
 
 You can make a move by clicking on ```clickCell``` on the Debug Panel, entering a number between ```0``` and ```8```, and pressing **Enter**. 
 
-The current player will make a move on the chosen cell. The number you enter is the ```id``` passed to the ```clickCell``` function as the first argument after ```G``` and ```ctx```. Notice how the ```cells``` array on the Debug Panel updates as you make moves. 
+The current player will make a move on the chosen cell. The number you enter is the ```id``` passed to the ```clickCell``` function as the first argument after ```G``` and ```ctx```. 
+
+Notice how the ```cells``` array on the Debug Panel updates as you make moves. 
 
 You can end the turn by clicking ```endTurn``` and pressing **Enter**. 
 
