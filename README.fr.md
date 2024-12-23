@@ -1,13 +1,13 @@
 nom du référentiel
 
-# Repository Name
+# Nom du référentiel
 
 > Slugline
 
 -   [Documentation](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glossaire](./GLOSSARY.md)
 -   [Images](./IMAGES.md)
--   [Tamisé](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [Références](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
@@ -23,7 +23,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Créer notre application
 
 Voir[README.md](./300/README.md)
 
