@@ -1,8 +1,8 @@
 儲存庫名稱
 
-# 儲存庫名稱
+# Repository Name
 
-> 斯拉格萊恩
+> Slugline
 
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
@@ -13,15 +13,15 @@
 
 **執行摘要**
 
-Text
+文字
 
 ## 100 - 簡介
 
 看[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - 要求
 
-See [README.md](./200/README.md)
+看[README.md](./200/README.md)
 
 ## 300 - 建立我們的應用程式
 
