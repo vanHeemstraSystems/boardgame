@@ -1,19 +1,19 @@
 nombre-repositorio
 
-# Nombre del repositorio
+# Repository Name
 
 > línea de bala
 
 -   [Documentación](./DOCUMENTATION.md)
--   [Glosario](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Imágenes](./IMAGES.md)
--   [Podman](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Suave](./PODMAN.md)
+-   [Referencias](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
-Text
+Texto
 
 ## 100 - Introducción
 
