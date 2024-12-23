@@ -1,14 +1,14 @@
 儲存庫名稱
 
-# Repository Name
+# 儲存庫名稱
 
-> Slugline
+> 斯拉格萊恩
 
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [圖片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
--   [參考](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [遙測](./TELEMETRY.md)
 
 **執行摘要**
