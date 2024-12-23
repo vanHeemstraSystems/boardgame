@@ -5,10 +5,10 @@ Repository-Name
 > Slugline
 
 -   [Dokumentation](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glossar](./GLOSSARY.md)
 -   [Bilder](./IMAGES.md)
--   [Podman](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Gedämpft](./PODMAN.md)
+-   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
 **Zusammenfassung**
