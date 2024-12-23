@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+boardgame
+# BoardGame
 
-> Slugline
+> A web-based multi-player boardgame
 
 - [Documentation](./DOCUMENTATION.md)
 - [Glossary](./GLOSSARY.md)
@@ -12,7 +12,7 @@ repository-name
 
 **Executive Summary**
 
-Text
+A Board Game based on BoardGame.io
 
 ## 100 - Introduction
 
