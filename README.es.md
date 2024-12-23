@@ -1,11 +1,11 @@
 nombre-repositorio
 
-# Repository Name
+# Nombre del repositorio
 
 > línea de bala
 
 -   [Documentación](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glosario](./GLOSSARY.md)
 -   [Imágenes](./IMAGES.md)
 -   [Suave](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
