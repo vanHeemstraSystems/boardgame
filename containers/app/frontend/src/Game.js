@@ -15,7 +15,7 @@ function IsVictory (cells) {
 
   const isRowComplete = row => {
     const symbols = row.map(i => cells[i])
-    return symbols.every(i => i !== null && i === true)
+    return symbols.every(i => i !== null && i === symbols[0])
   }
 
   return positions.map(isRowComplete).some(i => i === true)
