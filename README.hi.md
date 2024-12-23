@@ -15,7 +15,7 @@
 
 मूलपाठ
 
-## 100 - Introduction
+## 100 - परिचय
 
 देखना[README.md](./100/README.md)
 
