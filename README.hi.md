@@ -1,6 +1,6 @@
 भंडार-नाम
 
-# भंडार का नाम
+# Repository Name
 
 > स्लगलाइन
 
@@ -9,7 +9,7 @@
 -   [इमेजिस](./IMAGES.md)
 -   [मातहत](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
--   [टेलीमेटरी](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **कार्यकारी सारांश**
 
@@ -19,7 +19,7 @@
 
 देखना[README.md](./100/README.md)
 
-## 200 - आवश्यकताएँ
+## 200 - Requirements
 
 देखना[README.md](./200/README.md)
 
