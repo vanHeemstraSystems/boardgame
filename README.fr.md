@@ -1,4 +1,4 @@
-nom du référentiel
+repository-name
 
 # Nom du référentiel
 
@@ -11,7 +11,7 @@ nom du référentiel
 -   [Références](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
-**Résumé exécutif**
+**Executive Summary**
 
 Texte
 
@@ -21,7 +21,7 @@ Voir[README.md](./100/README.md)
 
 ## 200 - Exigences
 
-Voir[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - Créer notre application
 
