@@ -1,8 +1,8 @@
-Repository-Name
+Brettspiel
 
-# Repository-Name
+# Brettspiel
 
-> Slugline
+> Ein webbasiertes Multiplayer-Brettspiel
 
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
@@ -13,7 +13,7 @@ Repository-Name
 
 **Zusammenfassung**
 
-Text
+Ein Brettspiel basierend auf BoardGame.io
 
 ## 100 - Einführung
 
