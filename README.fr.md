@@ -8,7 +8,7 @@ nom du référentiel
 -   [Glossaire](./GLOSSARY.md)
 -   [Images](./IMAGES.md)
 -   [Tamisé](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Références](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
 **Résumé exécutif**
@@ -23,7 +23,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Créer notre application
+## 300 - Construire notre application
 
 Voir[README.md](./300/README.md)
 
