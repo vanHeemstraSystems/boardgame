@@ -1,6 +1,6 @@
 nombre-repositorio
 
-# Nombre del repositorio
+# Repository Name
 
 > línea de bala
 
@@ -9,7 +9,7 @@ nombre-repositorio
 -   [Imágenes](./IMAGES.md)
 -   [Suave](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
--   [Telemetria](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
