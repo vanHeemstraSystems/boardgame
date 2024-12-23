@@ -11,11 +11,11 @@
 -   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
-**Executive Summary**
+**ملخص تنفيذي**
 
 نص
 
-## 100 - Introduction
+## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
