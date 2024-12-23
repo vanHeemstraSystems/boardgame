@@ -5,17 +5,17 @@
 > 斯拉格萊恩
 
 -   [文件](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [詞彙表](./GLOSSARY.md)
 -   [圖片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [參考](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [遙測](./TELEMETRY.md)
 
 **執行摘要**
 
 文字
 
-## 100 - Introduction
+## 100 - 簡介
 
 看[README.md](./100/README.md)
 
@@ -25,7 +25,7 @@
 
 ## 300 - 建立我們的應用程式
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400 - 結論
 

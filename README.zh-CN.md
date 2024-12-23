@@ -2,12 +2,12 @@
 
 # 存储库名称
 
-> 斯拉格莱恩
+> Slugline
 
 -   [文档](./DOCUMENTATION.md)
--   [词汇表](./GLOSSARY.md)
--   [Images](./IMAGES.md)
--   [柔和的](./PODMAN.md)
+-   [Glossary](./GLOSSARY.md)
+-   [图片](./IMAGES.md)
+-   [Podman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
 
@@ -15,7 +15,7 @@
 
 文本
 
-## 100 - 简介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
