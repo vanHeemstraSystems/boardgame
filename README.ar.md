@@ -7,11 +7,11 @@
 -   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [الصور](./IMAGES.md)
--   [Podman](./PODMAN.md)
+-   [مهزوما](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
-**Executive Summary**
+**ملخص تنفيذي**
 
 نص
 
@@ -23,7 +23,7 @@
 
 يرى[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 – بناء تطبيقنا
 
 يرى[README.md](./300/README.md)
 

@@ -5,13 +5,13 @@ repositorynaam
 > Slaklijn
 
 -   [Documentatie](./DOCUMENTATION.md)
--   [Glossarium](./GLOSSARY.md)
--   [Afbeeldingen](./IMAGES.md)
+-   [Glossary](./GLOSSARY.md)
+-   [Images](./IMAGES.md)
 -   [Ingetogen](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Samenvatting**
+**Executive Summary**
 
 Tekst
 
