@@ -1,8 +1,8 @@
-nom du référentiel
+jeu de société
 
-# Nom du référentiel
+# Jeu de société
 
-> Slugline
+> Un jeu de société multijoueur basé sur le Web
 
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
@@ -13,7 +13,7 @@ nom du référentiel
 
 **Résumé exécutif**
 
-Texte
+Un jeu de société basé sur BoardGame.io
 
 ## 100 - Introduction
 
@@ -23,7 +23,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Construire notre application
 
 Voir[README.md](./300/README.md)
 
