@@ -25,4 +25,6 @@ You can end the turn by clicking ```endTurn``` and pressing **Enter**.
 
 The next call to ```clickCell``` will result in a “1” in the chosen cell instead of a “0”.
 
+**Note**: You can turn off the Debug Panel by passing ```debug: false``` in the Client config.
+
 MORE ...
